@@ -1,9 +1,9 @@
 {
-    "versionCode":  null,
-    "versionName":  null,
-    "minSupportedVersionCode":  1,
-    "releaseNotes":  "App improvements and bug fixes.",
-    "apkUrl":  "https://github.com/prince5711meher-cpu/meher-basan-updates/releases/download/v./meher-basan-v.apk",
-    "sha256":  null,
-    "mandatory":  false
+  "versionCode": 2,
+  "versionName": "1.0",
+  "minSupportedVersionCode": 1,
+  "releaseNotes": "First public release. Includes app updates and improvements.",
+  "apkUrl": "https://github.com/prince5711meher-cpu/meher-basan-updates/releases/download/v1.0.2/meher-basan-v2.apk",
+  "sha256": "C0C34DDDF9FCA08D4B37C8A43D497BEAEFF191202523B3F7137E325833130DA1",
+  "mandatory": false
 }
